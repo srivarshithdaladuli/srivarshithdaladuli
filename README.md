@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Srivarshith Daladuli</h1>
-<h3 align="center">A passionate frontend & backend developer from India</h3>
+<h3 align="center">Aspiring Data Scientist</h3>
 
 <p align="left"> <a href="https://twitter.com/srivarshithd" target="blank"><img src="https://img.shields.io/twitter/follow/srivarshithd?logo=twitter&style=for-the-badge" alt="srivarshithd" /></a> </p>
 
