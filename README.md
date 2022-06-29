@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 [Srivarshith Daladuli](https://srivarshithdaladuli.github.io/My-Profile/)
 -->
-<!-- ![Srivarshith Daladuli](Angel.gif) -->
+<!-- ![Srivarshith Daladuli](sri.gif) -->
 <h2 align="center">
   Welcome to Srivarshith Daladuli's profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
@@ -96,12 +96,12 @@ Here are some ideas to get you started:
         
 <!-- <p align="center">
     <a href="https://srivarshithdaladuli.github.io/My-Profile/" target+"_blank" >
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iamAngelSH&theme=default" height="200em">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=srivarshith daladuli&theme=default" height="200em">
   </a>
 <p> -->
 
 <p align="center">
   <a href="https://srivarshithdaladuli.github.io/My-Profile/">
-    <img src="https://github-readme-stats.vercel.app/api?username=iamAngelSH&repo=github-readme-stats" height="200em"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=srivarshithdaladuli&repo=github-readme-stats" height="200em"/>
   </a>
 </p>
