@@ -92,15 +92,13 @@ Here are some ideas to get you started:
 </p>
 
 <br>
-        
-<!-- <p align="center">
-    <a href="https://srivarshithdaladuli.github.io/My-Profile/" target+"_blank" >
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=srivarshith daladuli&theme=default" height="200em">
-  </a>
-<p> -->
 
-<p align="center">
-  <a href="https://srivarshithdaladuli.github.io/My-Profile/">
-    <img src="https://github-readme-stats.vercel.app/api?username=srivarshithdaladuli&repo=github-readme-stats" height="200em"/>
-  </a>
-</p>
+ 
+ <!--Github Status -->    
+![Srivarshith Daladuli github stats](https://github-readme-stats.vercel.app/api?username=srivarshithdaladuli&count_private=true&show_icons=true&theme=dracula&hide_rank=false)
+
+  
+   
+      
+      
+      
