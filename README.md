@@ -19,6 +19,9 @@ Here are some ideas to get you started:
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h2>
 
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=srivarshithdaladuli&label=Profile%20views&color=0e75b6&style=flat" alt="srivarshithdaladuli" /> </p>
+
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Data%20Scientist;Data%20Engineer;Machine%20Learning;Code%20|%20Eat%20|%20Sleep%20|%20Dream&font=Fira%20Code&center=true&width=440&height=45&color=ADF802&vCenter=true&size=22"></a>
 </p>
@@ -91,14 +94,13 @@ Here are some ideas to get you started:
    
 </p>
 
-<br>
 
+<h3 align="center">
  
  <!--Github Status -->    
-![Srivarshith Daladuli github stats](https://github-readme-stats.vercel.app/api?username=srivarshithdaladuli&count_private=true&show_icons=true&theme=dracula&hide_rank=false)
+![Srivarshith Daladuli github stats](https://github-readme-stats.vercel.app/api?username=srivarshithdaladuli&count_private=true&show_icons=true&theme=green&hide_rank=false)
 
-  
-   
+</h3>   
       
-      
+            
       
