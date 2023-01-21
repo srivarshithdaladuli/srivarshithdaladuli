@@ -103,4 +103,6 @@ Here are some ideas to get you started:
 </h3>   
       
             
-      
+<a href="https://makers.appwrite.io/srivarshithdaladuli">
+  <img src="https://appwrite.io/cards/makers/srivarshithdaladuli" alt="srivarshithdaladuli's Maker Card" />
+</a>
