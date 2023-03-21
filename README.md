@@ -101,8 +101,4 @@ Here are some ideas to get you started:
 ![Srivarshith Daladuli github stats](https://github-readme-stats.vercel.app/api?username=srivarshithdaladuli&count_private=true&show_icons=true&theme=green&hide_rank=false)
 
 </h3>   
-      
-            
-<a href="https://makers.appwrite.io/srivarshithdaladuli">
-  <img src="https://appwrite.io/cards/makers/srivarshithdaladuli" alt="srivarshithdaladuli's Maker Card" />
-</a>
+     
