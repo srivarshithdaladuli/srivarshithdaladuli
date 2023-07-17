@@ -87,7 +87,7 @@ Here are some ideas to get you started:
 </h3>
 
 <p align="center">
-<!-- Jupyter Notebooks, Visual Studio, Git  -->
+<!-- Jupyter Notebooks, Visual Studio, Git -->
     <a href="https://jupyter.org/" target+"_blank" ><img alt="JupyterNotebooks" src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" height="20em"></a>
     <a href="https://code.visualstudio.com/" target+"_blank" ><img alt="VisualStudio" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" height="20em"></a>
     <a href="https://git-scm.com/" target+"_blank" ><img alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" height="20em"></a>
