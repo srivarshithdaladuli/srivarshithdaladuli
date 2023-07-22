@@ -20,6 +20,16 @@ Here are some ideas to get you started:
 </h2>
 
 
+<h2 align="center">
+   <img src="https://media.giphy.com/media/rHA6zm9rRSauk/giphy.gif" width="50">
+</h2>  
+
+
+
+
+
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=srivarshithdaladuli&label=Profile%20views&color=0e75b6&style=flat" alt="srivarshithdaladuli" /> </p>
 
 <p align="center">
@@ -102,3 +112,5 @@ Here are some ideas to get you started:
 
 </h3>   
      
+
+
