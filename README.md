@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=srivarshithdaladuli&label=Profile%20views&color=0e75b6&style=flat" alt="srivarshithdaladuli" /> </p>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Data%20Scientist;Data%20Engineer;Machine%20Learning;Code%20|%20Eat%20|%20Sleep%20|%20Dream&font=Fira%20Code&center=true&width=440&height=45&color=ADF802&vCenter=true&size=22"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Data%20Scientist;Data%20Engineer;Machine%20Learning;Code%20|%20Eat%20|%20Sleep%20|%20Dream&font=Fira%20Code&center=true&width=440&height=45&color=00F9C8&vCenter=true&size=22"></a>
 </p>
 
 <br>
