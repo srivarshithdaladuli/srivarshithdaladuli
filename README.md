@@ -43,6 +43,7 @@ Here are some ideas to get you started:
     <a href="https://twitter.com/SrivarshithD" target+"_blank" ><img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" height="25em"></a> 
     <a href="https://www.linkedin.com/in/srivarshith-daladuli-107331108/" target+"_blank" ><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="25em"></a> 
     <a href="srivarshithdaladuli@gmail.com" target+"_blank" ><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="25em" alt="Email Me" title="Email Me"/></a>
+    <a href="https://medium.com/@srivarshith-daladuli"> <img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height="25em"/></a>
     
 </p>
 
