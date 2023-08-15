@@ -62,6 +62,7 @@ Here are some ideas to get you started:
      <a href="https://www.python.org/" target+"_blank" ><img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" height="20em"></a>
     <a href="https://www.w3schools.com/html/" target+"_blank" ><img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="20em"></a>
     <a href="https://www.tutorialrepublic.com/css-tutorial/" target+"_blank" ><img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="20em"></a
+    <a href="https://devdocs.io/javascript/" target+"_blank" ><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" height="20em"></a>                                                                                                                                                                                                     
 </p>
 
 <h3 align="center">
@@ -77,6 +78,8 @@ Here are some ideas to get you started:
     <a href="https://flask.palletsprojects.com/" target+"_blank" ><img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" height="20em"></a>
     <a href="https://www.json.org/" target+"_blank" ><img alt="Json" src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" height="20em"></a>
     <a href="https://www.json.org/" target+"_blank" ><img alt="Json" src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" height="20em"></a>
+    <a href="https://www.djangoproject.com/" target+"_blank"><img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" height="21em"></a>
+    <a href="https://nodejs.org/en" target+"_blank"><img alt="Node.js" src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" height="20em"></a>
     
 </p>
 
@@ -90,6 +93,7 @@ Here are some ideas to get you started:
     <a href="https://github.com/" target+"_blank" ><img alt="Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="20em"></a>
     <a href="https://www.docker.com/" target+"_blank" ><img alt="Docker" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" height="20em"></a>
     <a href="https://www.sqlite.org/" target+"_blank" ><img alt="SQLite" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" height="20em"></a>
+    <a href="https://www.mongodb.com/" targer+"_blank"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" height="20em"></a>
    
 </p>
 
