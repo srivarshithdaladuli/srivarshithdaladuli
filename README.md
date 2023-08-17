@@ -113,7 +113,9 @@ Here are some ideas to get you started:
 <h3 align="center">
  
  <!--Github Status -->    
-![Srivarshith Daladuli github stats](https://github-readme-stats.vercel.app/api?username=srivarshithdaladuli&count_private=true&show_icons=true&theme=green&hide_rank=false)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=srivarshithdaladuli)
+
+
 
 </h3>   
      
