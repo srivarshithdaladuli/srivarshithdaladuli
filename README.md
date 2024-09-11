@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 <!-- ![Srivarshith Daladuli](sri.gif) -->
 <h2 align="center">
-  Welcome to Srivarshith Daladuli's profile!
+  Welcome to Srivarshith's profile!
 
 </h2>
 
